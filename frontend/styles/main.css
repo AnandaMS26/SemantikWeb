@@ -1,0 +1,167 @@
+@import url('https://fonts.googleapis.com/css?family=Montserrat|Open+Sans|Roboto');
+body {
+  background-color: #fff;
+  font-family: 'Assistant', sans-serif;
+  color: #071C4D;
+}
+
+.navbar-brand img {
+  max-height: 40px;
+}
+
+.btn-navbar-right {
+  margin-top: -10px !important;
+  margin-bottom: -8px !important;
+  margin-right: -18px !important;
+  height: 70px;
+  border-radius: 0;
+}
+
+.navbar-light .navbar-nav .nav-link {
+  color: #071C4D;
+}
+
+.navbar-light .navbar-nav .nav-link.active {
+  font-weight: bold;
+  color: #071C4D !important;
+}
+
+.btn-login {
+  background-color: #071C4D;
+  color: #fff;
+}
+
+.btn-login:hover {
+  color: #fff;
+}
+
+header {
+  margin-top: -68px;
+  padding: 180px 0 165px;
+  background-image: url("../images/header.jpg");
+  background-size: cover;
+}
+
+header h1,
+header p {
+  color: #fff;
+}
+
+header h1 {
+  font-family: 'Playfair Display', serif;
+  font-weight: bold;
+}
+
+header .btn-get-started {
+  background-color: #FF9E53;
+  color: #fff;
+}
+
+header .btn-get-started:hover {
+  color: #fff;
+}
+
+.section-stats {
+  margin-top: -50px;
+}
+
+.section-stats .stats-detail {
+  padding-top: 15px;
+  background: #fff;
+  padding-left: 40px;
+}
+
+.section-stats h2 {
+  font-size: 30px;
+  margin-bottom: 0;
+}
+
+.section-stats p {
+  font-size: 20px;
+  font-weight: lighter;
+}
+
+.section-popular {
+  min-height: 540px;
+  background: #051334;
+  margin-top: -50px;
+  margin-bottom: -230px;
+}
+
+.section-popular .section-popular-heading {
+  margin-top: 150px;
+}
+
+.section-popular .section-popular-heading h2,
+.section-popular .section-popular-heading p {
+  color: #fff;
+}
+
+.section-popular .section-popular-heading h2 {
+  font-family: 'Playfair Display', serif;
+  font-weight: bold;
+}
+
+.section-popular-content .section-popular-product .card-product {
+  min-height: 380px;
+  background: #fff;
+  color: #fff;
+  padding: 30px;
+  background-size: cover;
+  margin-bottom: 20px;
+}
+
+.section-popular-content .section-popular-product .card-product .product-country {
+  font-size: 18px;
+  color: #fff;
+}
+
+.section-popular-content .section-popular-product .card-product .product-location {
+  font-size: 26px;
+  color: #fff;
+}
+
+.section-popular-content .section-popular-product .card-product .product-button .btn-product-details {
+  background-color: #FF9E53;
+  color: #fff;
+}
+
+.section-popular-content .section-popular-product .card-product .product-button .btn-product-details:hover {
+  color: #fff;
+}
+
+.search-box {
+  justify-content: center;
+}
+
+.search-box input {
+  height: 42px;
+  width: 550px;
+  border-radius: 20px;
+  padding-left: 50px;
+}
+
+.search-box button {
+  position: relative;
+  width: 160px;
+  height: 42px;
+  border-radius: 10px;
+  left: 30px;
+  top: -2px;
+  font-size: large;
+  border-color: #3c9dfe;
+  background-color: #3c9dfe;
+}
+
+.bi-search {
+  position: relative;
+  top: -35px;
+  left: -330px;
+  color: black;
+}
+
+.section-footer a {
+  color: #071c4d;
+}
+
+/*# sourceMappingURL=main.css.map */

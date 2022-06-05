@@ -1,0 +1,15 @@
+PREFIX p: <http://learningsparql.com/ns/shop#> 
+PREFIX d:  <http://learningsparql.com/ns/data#>
+
+    SELECT ?Produk ?JenisProduk ?Toko ?Desc ?Harga ?Stok 
+    WHERE
+    { 
+        ?s  d:namaProduk ?Produk ;
+            d:jenisProduk ?jenisProduk;
+            d:Toko ?Toko;
+            d:Desc ?Desc;
+            d:Harga ?Harga;
+            d:Stok ?Stok;
+            
+
+    }

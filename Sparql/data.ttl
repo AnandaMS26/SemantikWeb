@@ -1,0 +1,177 @@
+@prefix p: <http://learningsparql.com/ns/shop#> .
+@prefix d:  <http://learningsparql.com/ns/data#> .
+
+p:P01        d:namaProduk	        "HP Pavilion Gaming 15-ec2047AX" ;
+             d:JenisProduk       	"Elektronik" ;
+             d:Toko                 "CPUCOM - HP Authorized" ;
+             d:Desc                 "HP Pavilion Gaming 15-ec2047AX Ryzen 5 5600H 16GB 512SSD GTX1650 4GB Win 10 + OHS";
+             d:Harga                "11.499.000";
+             d:Stok                 "15".
+
+p:P02        d:namaProduk	        "HP OMEN 16-c0092AX" ;
+             d:JenisProduk       	"Elektronik" ;
+             d:Toko                 "CPUCOM - HP Authorized" ;
+             d:Desc                 "HP OMEN 16-c0092AX Ryzen 7 5800H 16GB 512GB SSD RTX3070 16.1 FHD Win 11 + OHS";
+             d:Harga                "24.149.000";
+             d:Stok                 "15".            
+
+p:P03        d:namaProduk	        "HP VICTUS GAMING 16 E0088AX" ;
+             d:JenisProduk       	"Elektronik" ;
+             d:Toko                 "CPUCOM - HP Authorized" ;
+             d:Desc                 "HP VICTUS GAMING 16 E0088AX AMD Ryzen5-5600H with RTX 3060 6GB/2x8GB-3200hz/512GB-SSD/NO-ODD/Backlit KB + W10Home + OHS 2019/2Years + ADP/MICA SILVER/16.1 FHD AG IPS 250 nits 144Hz";
+             d:Harga                "16.989.000";
+             d:Stok                 "10".            
+
+p:P04        d:namaProduk	        "Laptop HP 14s-dk1509AU ATHLON 3150U" ;
+             d:JenisProduk       	"Elektronik" ;
+             d:Toko                 "CPUCOM - HP Authorized" ;
+             d:Desc                 "Laptop HP 14s-dk1506AU/dk1509AU ATHLON 3150 4GB 512GB SSD Win 10 Home + OHS 2019";
+             d:Harga                "6.049.000";
+             d:Stok                 "25".
+
+p:P05        d:namaProduk	        "HP Pavilion 14-ec0013AU" ;
+             d:JenisProduk       	"Elektronik" ;
+             d:Toko                 "CPUCOM - HP Authorized" ;
+             d:Desc                 "HP PAVILION 14-ec0013AU/ec0014AU Ryzen 5-5500U 16GB 512GB SSD 14.0 FHD IPS Win 10 + OHS";
+             d:Harga                "9.999.000";
+             d:Stok                 "5".
+             
+p:P06        d:namaProduk	        "GAMIS MOSCREPE PREMIUM" ;
+             d:JenisProduk       	"Fashion" ;
+             d:Toko                 "VECTOR92COLLECTION";
+             d:Desc                 "BAHAN = MOSCREPE PREMIUM,TEBAL ,HALUS DAN NYAMAN DI PAKAI";
+             d:Harga                "85.000";
+             d:Stok                 "95".
+
+p:P07        d:namaProduk	        "Gamis Azira Busui matt Moscrepe" ;
+             d:JenisProduk       	"Fashion" ;
+             d:Toko                 "Vinc Store Official" ;
+             d:Desc                 "Gamis Azira berbahan Moscrepe, panjang 140 Cm, lingkar dada 110 Cm";
+             d:Harga                "115.000";
+             d:Stok                 "20".
+
+p:P08        d:namaProduk	        "Gamis Keyra Bahan Rayon" ;
+             d:JenisProduk       	"Fashion" ;
+             d:Toko                 "Vinc Store Official" ;
+             d:Desc                 "Maxi pinggang blkg, karet busui, fit to xl, ld 110 pj 140, lb rok 3m, MATT Rayon Premium motif kombi moscrepe, toleransi size -/+ 1-2 cm";
+             d:Harga                "125.000";
+             d:Stok                 "30".
+
+p:P09        d:namaProduk	        "Gamis Katun Rayon Premium Home Dress" ;
+             d:JenisProduk       	"Fashion" ;
+             d:Toko                 "nooma official" ;
+             d:Desc                 "Gamis Katun Rayon Premium Dress Wanita Motif Daster Full Kancing Busui";
+             d:Harga                "141.550";
+             d:Stok                 "15".
+
+p:P10        d:namaProduk	        "Isyana midi dress gamis bahan katun rayon" ;
+             d:JenisProduk       	"Fashion" ;
+             d:Toko                 "Grosir Baju || KyFashion" ;
+             d:Desc                 "Selamat datang di toko kyfashion.id kami adalah supplier produk fashion hijab khususnya menjual gamis, terlengkap, termurah dan berkualitas kota bandung, dapat di pastikan mendapat kualitas terbaik, dengan harga pabrik.";
+             d:Harga                "90.000";
+             d:Stok                 "100".
+             
+p:P11        d:namaProduk	        "Donat Kentang 1 Lusin Mix Variant" ;
+             d:JenisProduk       	"Food" ;
+             d:Toko                 "Tomaple Potato Donuts" ;
+             d:Desc                 "Donat kentang mix variant";
+             d:Harga                "130.000";
+             d:Stok                 "330".
+
+p:P12        d:namaProduk	        "Paket Donat Traktir Driver" ;
+             d:JenisProduk       	"Food" ;
+             d:Toko                 "Tomaple Potato Donuts" ;
+             d:Desc                 "Paket Traktir Driver (Donat Classic + Thai Tea Regular)";
+             d:Harga                "20.000";
+             d:Stok                 "32".
+
+p:P13        d:namaProduk	        "Paket Donat Romantic 1/2 Lusin (6 Pcs)" ;
+             d:JenisProduk       	"Food" ;
+             d:Toko                 "Tomaple Potato Donuts" ;
+             d:Desc                 "isi 6 pcs donat kentang mix variant termasuk kartu ucapan/ greeting card";
+             d:Harga                "95.000";
+             d:Stok                 "87".
+
+p:P14        d:namaProduk	        "DONAT PREMIUM BUTTER SINAR PAGI" ;
+             d:JenisProduk       	"Food" ;
+             d:Toko                 "SINAR PAGI CATERING" ;
+             d:Desc                 "Jangan Kaget kalau donat kami BESAR & WANGI krn berat adonan 60 gr/pcs & kami menggunakan Butter berkualitas.";
+             d:Harga                "10.400";
+             d:Stok                 "226".
+
+p:P15        d:namaProduk	        "Donat Mini Premium" ;
+             d:JenisProduk       	"Food" ;
+             d:Toko                 "SINAR PAGI CATERING" ;
+             d:Desc                 "Less Sugar, Low Carbs, Menggunakan Ragi alami, Tanpa Pelembut, Tanpa Pengempuk, Anti Topping2 Instant.";
+             d:Harga                "67.999";
+             d:Stok                 "20".
+
+p:P16        d:namaProduk	        "iPhone 13 Pro Max" ;
+             d:JenisProduk       	"Elektronik" ;
+             d:Toko                 "Putra Group" ;
+             d:Desc                 "13 Pro Max 6.7 inch Sierra Blue - Graphite - Silver - Gold - Alphine Green";
+             d:Harga                "17.650.000";
+             d:Stok                 "500".
+
+p:P17        d:namaProduk	        "iPhone 13 Pro" ;
+             d:JenisProduk       	"Elektronik" ;
+             d:Toko                 "Puta Group" ;
+             d:Desc                 "13 Pro 6.1 inch Sierra Blue - Graphite - Silver - Gold";
+             d:Harga                "16.199.000";
+             d:Stok                 "500".
+
+p:P18        d:namaProduk	        "iPhone 13" ;
+             d:JenisProduk       	"Elektronik" ;
+             d:Toko                 "Putra Group" ;
+             d:Desc                 "iPhone13 6.1 inch Sierra Blue - Graphite - Silver - Gold";
+             d:Harga                "12.750.000";
+             d:Stok                 "Outlet Chatime".
+
+p:P19        d:namaProduk	        "iPhone 12 Pro Max" ;
+             d:JenisProduk       	"Elektronik" ;
+             d:Toko                 "Putra Group" ;
+             d:Desc                 "iPhone 12 Pro Max 6.7 inch Pacific Blue - Graphite - Gold - Silver";
+             d:Harga                "18.850.000";
+             d:Stok                 "496".
+
+p:P20        d:namaProduk	        "iPhone 12 Pro" ;
+             d:JenisProduk       	"Elektronik" ;
+             d:Toko                 "Putra Group" ;
+             d:Desc                 "iPhone 12 Pro 6.1 inch Pacific Blue - Graphite - Gold - Silver";
+             d:Harga                "17.990.000";
+             d:Stok                 "489".
+
+p:P21        d:namaProduk	        "ASUS ROG FLOW X13 GV301RA" ;
+             d:JenisProduk       	"Elektronik" ;
+             d:Toko                 "RoG Official Store" ;
+             d:Desc                 "World's Most Powerful 13 Convertible Gaming Laptop";
+             d:Harga                "20.799.000";
+             d:Stok                 "3".
+
+p:P22        d:namaProduk	        "ASUS ROG G513QY R9X8G6TO11" ;
+             d:JenisProduk       	"Elektronik" ;
+             d:Toko                 "RoG Official Store" ;
+             d:Desc                 "RYZEN 9 5900HX 16GB 1TBSSD RX 6800 12GB W11";
+             d:Harga                "29.499.999";
+             d:Stok                 "3".
+
+p:P23        d:namaProduk	        "ASUS ROG Strix - G G513IH-R765B6G-O11" ;
+             d:JenisProduk       	"Elektronik" ;
+             d:Toko                 "RoG Official Store" ;
+             d:Desc                 "AMD Ryzen™ 7 4800H Processor 2.9 GHz (8M Cache, up to 4.2 GHz)";
+             d:Harga                "15.999.000";
+             d:Stok                 "1".
+
+p:P24        d:namaProduk	        "ASUS ROG STRIX G513IH-R765B6T-O" ;
+             d:JenisProduk       	"Elektronik" ;
+             d:Toko                 "RoG Official Store" ;
+             d:Desc                 "R7-4800H/GTX1650 4GB";
+             d:Harga                "16.145.000";
+             d:Stok                 "5".
+
+p:P25        d:namaProduk	        "Asus ROG Strix Scar G533QM-R936D6T-O" ;
+             d:JenisProduk       	"Elektronik" ;
+             d:Toko                 "RoG Official Store" ;
+             d:Desc                 "Asus ROG Strix Scar G533QM-R936D6T-O Gaming [R9-5900HX/RTX3060 6G/8G*2/1TB NVMe/RGB/Win10/OHS 2019/FHD 15.6 300Hz 100% sRGB] FREE BAG+CAM+MS";
+             d:Harga                "29.699.000";
+             d:Stok                 "2".
